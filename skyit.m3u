@@ -49,7 +49,7 @@ https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/maste
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
-#EXTINF:-1 tvg-logo="",Sky Cinema Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Cinema_Comedy_-_Logo_2018.svg/1920px-Sky_Cinema_Comedy_-_Logo_2018.svg.png",Sky Cinema Comedy
 https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
