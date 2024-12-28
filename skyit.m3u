@@ -89,29 +89,29 @@ https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31255/FHD/cinemafamily
 
 
 
-#EXTINF:-1 tvg-id="SKY SPORT 24 H265" tvg-name="Sky Sport 24 UHD (fibra 200 mega)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_Sport_24_HD_-_Logo_2015.svg/1280px-Sky_Sport_24_HD_-_Logo_2015.svg.png" group-title="SKY SPORT",Sky Sport 24 UHD (fibra 200 mega)
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_24_2020.png?raw=true",Sky Sport 24
 http://172.105.244.150:25461/roberto/decesar/128935
 
-#EXTINF:-1 tvg-id="SKY SPORT UNO H265" tvg-name="Sky Sport Uno UHD (fibra 200 mega)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sky_Sport_Uno_HD_-_Logo_2018.svg/1280px-Sky_Sport_Uno_HD_-_Logo_2018.svg.png" group-title="SKY SPORT",Sky Sport Uno UHD (fibra 200 mega)
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Uno_2020.png?raw=true",Sky Sport Uno
 http://172.105.244.150:25461/roberto/decesar/128910
 
-#EXTINF:-1 tvg-id="SKY SPORT SERIE A H265" tvg-name="Sky Sport Calcio UHD (fibra 200 mega)" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hd7w4l1629399939.png" group-title="SKY CALCIO",Sky Sport Calcio UHD (fibra 200 mega)
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Calcio.png?raw=true", Sky Sport Calcio
 http://172.105.244.150:25461/roberto/decesar/128909
 
-#EXTINF:-1 tvg-id="SKY SPORT ARENA H265" tvg-name="Sky Sport Arena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sky_Sport_Arena_HD_-_Logo_2018.svg/800px-Sky_Sport_Arena_HD_-_Logo_2018.svg.png" group-title="SKY SPORT",Sky Sport Arena FHD
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Arena_2020.png?raw=true", Sky Sport Arena
 http://172.105.244.150:25461/roberto/decesar/20942
 
-#EXTINF:-1 tvg-id="SKY SPORT COLLECTION H265" tvg-name="Sky Sport Tennis UHD (fibra 200 mega)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sky_Sport_Tennis_-_Logo_2021.png" group-title="SKY SPORT",Sky Sport Tennis UHD (fibra 200 mega)
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Tennis.png?raw=true", Sky Sport Tennis
 http://172.105.244.150:25461/roberto/decesar/128922
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Action UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/1200px-Sky_Sport_Action.svg.png" group-title="SKY SPORT",Sky Sport Action UHD
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Action.png?raw=true", Sky Sport Action
 http://172.105.244.150:25461/roberto/decesar/135405
 
-#EXTINF:-1 tvg-id="SKY SPORT F1 H265" tvg-name="Sky Sport F1 UHD (fibra 200 mega)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sky_Sport_F1_HD_-_Logo_2018.svg/1280px-Sky_Sport_F1_HD_-_Logo_2018.svg.png" group-title="SKY SPORT",Sky Sport F1 UHD (fibra 200 mega)
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_F1_2020.png?raw=true", Sky Sport F1
 http://172.105.244.150:25461/roberto/decesar/128924
 
-#EXTINF:-1 tvg-id="SKY SPORT MOTO GP H265" tvg-name="Sky Sport MotoGP UHD (fibra 200 mega)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Sport_MotoGP_HD_-_Logo_2015.svg/1280px-Sky_Sport_MotoGP_HD_-_Logo_2015.svg.png" group-title="SKY SPORT",Sky Sport MotoGP UHD (fibra 200 mega)
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_MotoGP_2024.png?raw=true", Sky Sport MotoGP
 http://172.105.244.150:25461/roberto/decesar/128926
 
-#EXTINF:-1 tvg-id="SKY SPORT NBA H265" tvg-name="Sky Sport NBA UHD (fibra 200 mega)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sky_Sport_NBA_HD_-_Logo_2018.svg/1280px-Sky_Sport_NBA_HD_-_Logo_2018.svg.png" group-title="SKY SPORT",Sky Sport NBA UHD (fibra 200 mega)
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_NBA_2020.png?raw=true", Sky Sport NBA
 http://172.105.244.150:25461/roberto/decesar/128936
