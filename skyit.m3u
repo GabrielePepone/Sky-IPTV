@@ -44,12 +44,12 @@ https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/mas
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
-#EXTINF:-1 tvg-logo"https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Uno_new.png?raw=true",Sky Cinema Uno
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1920px-Sky_Sport_Uno_-_Logo_2020.svg.png",Sky Cinema Uno
 https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
-#EXTINF:-1 tvg-logo"https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Comedy_2020.png?raw=true",Sky Cinema Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Comedy_Central_2018.svg.png",Sky Cinema Comedy
 https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -74,7 +74,7 @@ https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspen
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=00362d0a5efbd10ab56a3f502f2be023:61c8c429f412ea52e06d9663c48ee9b7
-#EXTINF:-1 tvg-logo"https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Romance_2021.png?raw=true",Sky Cinema Romance
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/1920px-Sky_Cinema_Romance_-_Logo_2021.svg.png",Sky Cinema Romance
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/32231/FHD/cinemaromance/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
