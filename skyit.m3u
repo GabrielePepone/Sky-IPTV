@@ -40,6 +40,11 @@ https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master
 #EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Serie.png?raw=true", Sky Serie
 https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/master.mpd
 
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_History_2024_II.png?raw=true",Sky History Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362ec3497a383021f1db77c8556614:8820fb9b2afd6e1a3f4f5ab1ba4a73ad
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31513/FHD/history/master.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
