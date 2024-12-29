@@ -44,7 +44,7 @@ https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/mas
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1920px-Sky_Sport_Uno_-_Logo_2020.svg.png",Sky Cinema Uno
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/1920px-Sky_Cinema_Uno_-_Logo_2021.svg.png",Sky Cinema Uno
 https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/1920px-Sky_Cinema_Comedy_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Comedy HD
@@ -96,7 +96,7 @@ http://172.105.244.150:25461/roberto/decesar/128935
 http://172.105.244.150:25461/roberto/decesar/128910
 
 #EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Calcio.png?raw=true", Sky Sport Calcio
-http://172.105.244.150:25461/roberto/decesar/128909
+http://spiritolibero.ddns.net:8080/6martire/6romania/80951
 
 #EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Arena_2020.png?raw=true", Sky Sport Arena
 http://172.105.244.150:25461/roberto/decesar/20942
