@@ -1,0 +1,7 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8ab47741930c476780515f9a00decb0a":"7ab4b9ae5a48aa526e511a913b832769"}
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Dazn/zona_dazn.png?raw=true",Zona DAZN
+https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=web
