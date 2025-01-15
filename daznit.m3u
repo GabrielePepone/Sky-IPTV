@@ -1,7 +1,14 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8ab47741930c476780515f9a00decb0a":"7ab4b9ae5a48aa526e511a913b832769"}
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Dazn/zona_dazn.png?raw=true",Zona DAZN
-https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=web
+#EXTINF:-1 tvg-id="" tvg-name="TERZA FONTE * DAZN 1 FHD" tvg-logo="" group-title="3° FONTE DAZN SERIE A LIVE ",TERZA FONTE * DAZN 1 FHD
+http://cdn.santefisio.cloudns.ph:25461/FR@@WcFX@x/@3Tj7FENhw/184501
+#EXTINF:-1 tvg-id="" tvg-name="TERZA FONTE * DAZN 1 HD" tvg-logo="" group-title="3° FONTE DAZN SERIE A LIVE ",TERZA FONTE * DAZN 1 HD
+http://cdn.santefisio.cloudns.ph:25461/FR@@WcFX@x/@3Tj7FENhw/184502
+#EXTINF:-1 tvg-id="" tvg-name="TERZA FONTE * DAZN 1 SD" tvg-logo="" group-title="3° FONTE DAZN SERIE A LIVE ",TERZA FONTE * DAZN 1 SD
+http://cdn.santefisio.cloudns.ph:25461/FR@@WcFX@x/@3Tj7FENhw/184503
+#EXTINF:-1 tvg-id="" tvg-name="TERZA FONTE * DAZN 2 FHD" tvg-logo="" group-title="3° FONTE DAZN SERIE A LIVE ",TERZA FONTE * DAZN 2 FHD
+http://cdn.santefisio.cloudns.ph:25461/FR@@WcFX@x/@3Tj7FENhw/184504
+#EXTINF:-1 tvg-id="" tvg-name="TERZA FONTE * DAZN 2 HD" tvg-logo="" group-title="3° FONTE DAZN SERIE A LIVE ",TERZA FONTE * DAZN 2 HD
+http://cdn.santefisio.cloudns.ph:25461/FR@@WcFX@x/@3Tj7FENhw/184505
+#EXTINF:-1 tvg-id="" tvg-name="TERZA FONTE * DAZN 2 SD" tvg-logo="" group-title="3° FONTE DAZN SERIE A LIVE ",TERZA FONTE * DAZN 2 SD
+http://cdn.santefisio.cloudns.ph:25461/FR@@WcFX@x/@3Tj7FENhw/184506
